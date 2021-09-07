@@ -22,4 +22,8 @@ Considere um sistema de duas línguas concorrentes, X e Y, no qual a atratividad
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7Bdx%7D%7Bdy%7D%20%3D%20y%20P_%7By%20x%7D%20%28x%2C%20s%29%20-%20x%20P_%7Bx%20y%7D%20%28x%2C%20s%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\frac{dx}{dy} = y P_{y x} (x, s) - x P_{x y} (x, s)" width="228" height="47" />
 
-Onde y = 1 - x, é a
+Onde y = 1 - x, é a fração complementar da população que fala Y no tempo t. Por simetria, a troca de línguas deve produzir a mesma probabilidade de transição que uma troca na fração de falantes e status relativo; assim, P_{xy} (x, s) = P_{yx} (1 - x, 1 - s). Também assumimos que ninguém adotará uma linguagem que não tenha falantes (P_{yx} (0, s) = 0) ou nenhum status (P_{yx} (x, 0) = 0), e que P_{yx} é suave e monotonicamente crescente em ambos os argumentos.
+
+Essas suposições suaves implicam que a primeira equação tem genericamente três pontos fixos. Destes, apenas x = 0 e x = 1 são estáveis. O modelo, portanto, prevê que duas línguas não podem coexistir de forma estável - uma acabará por levar a outra à extinção.
+
+Para testar nosso modelo, coletamos dados sobre o número de falantes de línguas ameaçadas de extinção em 42 regiões do Peru, Escócia, País de Gales, Bolívia, Irlanda e Alsácia-Lorena, quatro das quais são mostradas na [figura do artigo]. Ajustamos as soluções do modelo aos dados, assumindo funções de transição das formas P_{yx} (x, s) = s*c*x^a e Pxy (x, s) = (1 - s)*c*(1 - x)^a. Inesperadamente, o expoente a foi considerado aproximadamente constante entre as culturas, com a = 1,31 ± 0,25 (média ± desvio padrão; mais detalhes estão disponíveis com os autores).
