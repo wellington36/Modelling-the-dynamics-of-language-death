@@ -10,6 +10,7 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 
 ### Ideas
 
+https://www.youtube.com/watch?v=t3qbYFvOHwk
 
 
 ### O que é dito no artigo main
