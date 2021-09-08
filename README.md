@@ -10,7 +10,9 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 
 ### Ideas
 
-https://www.youtube.com/watch?v=t3qbYFvOHwk
+https://www.youtube.com/watch?v=t3qbYFvOHwk (Bom local para ideias)
+https://www.youtube.com/watch?v=Qr8QsNCe3C4 (Bom local para ideias)
+https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6143996 (Boa fonte de dados)
 
 
 ### O que é dito no artigo main
@@ -27,4 +29,4 @@ Onde y = 1 - x, é a fração complementar da população que fala Y no tempo t.
 
 Essas suposições suaves implicam que a primeira equação tem genericamente três pontos fixos. Destes, apenas x = 0 e x = 1 são estáveis. O modelo, portanto, prevê que duas línguas não podem coexistir de forma estável - uma acabará por levar a outra à extinção.
 
-Para testar nosso modelo, coletamos dados sobre o número de falantes de línguas ameaçadas de extinção em 42 regiões do Peru, Escócia, País de Gales, Bolívia, Irlanda e Alsácia-Lorena, quatro das quais são mostradas na [figura do artigo]. Ajustamos as soluções do modelo aos dados, assumindo funções de transição das formas P_{yx} (x, s) = s*c*x^a e Pxy (x, s) = (1 - s)*c*(1 - x)^a. Inesperadamente, o expoente a foi considerado aproximadamente constante entre as culturas, com a = 1,31 ± 0,25 (média ± desvio padrão; mais detalhes estão disponíveis com os autores).
+Para testar nosso modelo, coletamos dados sobre o número de falantes de línguas ameaçadas de extinção em 42 regiões do Peru, Escócia, País de Gales, Bolívia, Irlanda e Alsácia-Lorena, quatro das quais são mostradas na [figura do artigo]. Ajustamos as soluções do modelo aos dados, assumindo funções de transição das formas P_{yx} (x, s) = s*c*x^a e P_{xy} (x, s) = (1 - s)*c*(1 - x)^a. Inesperadamente, o expoente a foi considerado aproximadamente constante entre as culturas, com a = 1,31 ± 0,25 (média ± desvio padrão; mais detalhes estão disponíveis com os autores).
