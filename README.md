@@ -15,6 +15,7 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 - https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6143996 (Boa fonte de dados)
 - https://pt.wikipedia.org/wiki/Lista_de_l%C3%ADnguas_por_n%C3%BAmero_de_falantes_nativos (falantes p/idioma)
 - https://pt.wikipedia.org/wiki/Lista_de_Wikip%C3%A9dias (artigos wikipedia? talvez?)
+- https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00401/full (artigo de referencia)
 
 
 ### My paper
