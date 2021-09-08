@@ -10,9 +10,9 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 
 ### Ideas
 
-https://www.youtube.com/watch?v=t3qbYFvOHwk (Bom local para ideias)
-https://www.youtube.com/watch?v=Qr8QsNCe3C4 (Bom local para ideias)
-https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6143996 (Boa fonte de dados)
+- https://www.youtube.com/watch?v=t3qbYFvOHwk (Bom local para ideias)
+- https://www.youtube.com/watch?v=Qr8QsNCe3C4 (Bom local para ideias)
+- https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6143996 (Boa fonte de dados)
 
 
 ### O que é dito no artigo main
@@ -30,3 +30,12 @@ Onde y = 1 - x, é a fração complementar da população que fala Y no tempo t.
 Essas suposições suaves implicam que a primeira equação tem genericamente três pontos fixos. Destes, apenas x = 0 e x = 1 são estáveis. O modelo, portanto, prevê que duas línguas não podem coexistir de forma estável - uma acabará por levar a outra à extinção.
 
 Para testar nosso modelo, coletamos dados sobre o número de falantes de línguas ameaçadas de extinção em 42 regiões do Peru, Escócia, País de Gales, Bolívia, Irlanda e Alsácia-Lorena, quatro das quais são mostradas na [figura do artigo]. Ajustamos as soluções do modelo aos dados, assumindo funções de transição das formas P_{yx} (x, s) = s*c*x^a e P_{xy} (x, s) = (1 - s)*c*(1 - x)^a. Inesperadamente, o expoente a foi considerado aproximadamente constante entre as culturas, com a = 1,31 ± 0,25 (média ± desvio padrão; mais detalhes estão disponíveis com os autores).
+
+Os símbolos mostram as proporções de falantes ao longo do tempo de: (a), gaélico escocês em Sutherland, Escócia [referencia 9]; b, Quechua em Huanuco, Peru; c, galês em Monmouthshire, País de Gales [referencia 10] ; d, Galês em todo o País de Gales, a partir de dados históricos [referencia 10] (azul) e um único censo moderno [referencia 11] (vermelho). As curvas ajustadas mostram as soluções do modelo na equação (1), com os parâmetros c, s, a e x (0) estimados por regressão de valores absolutos mínimos. Sempre que possível, os dados foram obtidos de vários censos populacionais coletados durante um longo período de tempo; caso contrário, um único censo recente com dados estruturados por idade foi usado (embora sejam introduzidos erros, cujo tamanho se reflete nos ajustes diferentes em d). Usando a fração de missas católicas oferecidas em quíchua no Peru como um indicador, reconstruímos uma história aproximada do declínio da língua.
+
+Dos parâmetros restantes, status, s, é o mais relevante linguisticamente; pode servir como uma medida útil da ameaça a um determinado idioma. O quíchua, por exemplo, ainda tem muitos falantes em Huanuco, Peru, mas seu baixo status está levando a uma rápida mudança para o espanhol, o que leva a uma situação infeliz em que uma criança não consegue se comunicar com seus avós.
+
+Ao contrário da previsão rígida do modelo, sociedades bilíngues, de fato, existem. Mas as histórias de países onde duas línguas coexistem hoje geralmente envolvem populações divididas que viveram sem interação significativa, efetivamente em sociedades monolíngues separadas. Apenas recentemente essas comunidades começaram a se misturar, permitindo o início da competição linguística.
+
+Então, o que pode ser feito para evitar a rápida desintegração do patrimônio linguístico de nosso mundo? O exemplo do francês de Quebec demonstra que o declínio da língua pode ser retardado por estratégias como formulação de políticas, educação e publicidade, em essência, aumentando o status de uma língua ameaçada de extinção. Uma extensão da equação que incorpora tal controle sobre s por meio de feedback ativo realmente mostra a estabilização de um ponto fixo bilíngue.
+
