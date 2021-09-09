@@ -8,7 +8,11 @@ Report in overleaf: [report PDF](https://pt.overleaf.com/read/vqjfqhspnmdb).
 Article [Modelling the dynamics of language death](https://www.nature.com/articles/424900a).
 
 
-### Ideas
+### Ideias
+
+- Usar idiomas ficticios?
+
+### Materiais
 
 - https://www.youtube.com/watch?v=t3qbYFvOHwk (Bom local para ideias)
 - https://www.youtube.com/watch?v=Qr8QsNCe3C4 (Bom local para ideias)
