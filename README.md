@@ -11,6 +11,11 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 ### Ideias
 
 - Usar idiomas ficticios?
+- Modelar a morte no latin?
+	- https://doi.org/10.31826/9781463214821-024 (read)
+- http://libgen.gs/ads.php?doi=10.2307/3199257 (Vide na pasta artigos) (referencia 9)
+- (Vide na pasta artigos) (referencia 11)
+
 
 ### Materiais
 
@@ -39,3 +44,4 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 
 - Conclusão:
 	- Resultados
+
