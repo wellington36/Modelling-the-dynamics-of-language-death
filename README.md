@@ -1,14 +1,14 @@
 # Modelling the dynamics of language death
 This repository describes the "dynamics of language death modeling" assigment of the EMAP-FGV biological modeling discipline.
 
-### Link for report
+## Link for report
 Report in overleaf: [report PDF](https://pt.overleaf.com/read/vqjfqhspnmdb).
 
-### Main article of reference
+## Main article of reference
 Article [Modelling the dynamics of language death](https://www.nature.com/articles/424900a).
 
 
-### Ideias
+## Ideias
 
 - Usar idiomas ficticios?
 - Modelar a morte no latin?
@@ -17,7 +17,7 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 - (Vide na pasta [artigos](https://github.com/wellington36/Modelling-the-dynamics-of-language-death/tree/main/Artigos%20referentes)) (referencia 11)
 
 
-### Materiais
+## Materiais
 
 - https://www.youtube.com/watch?v=t3qbYFvOHwk (Bom local para ideias)
 - https://www.youtube.com/watch?v=Qr8QsNCe3C4 (Bom local para ideias)
@@ -27,7 +27,7 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 - https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00401/full (artigo de referencia)
 
 
-### My paper
+## My paper
 
 - Introdução:
 	- O que é um idioma?
