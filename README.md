@@ -44,4 +44,6 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 
 - Conclusão:
 	- Resultados
+	- Considerações
+	- Efeitos do trabalho
 
