@@ -15,6 +15,7 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 	- https://doi.org/10.31826/9781463214821-024 (read)
 - http://libgen.gs/ads.php?doi=10.2307/3199257 (Vide na pasta [artigos](https://github.com/wellington36/Modelling-the-dynamics-of-language-death/tree/main/Artigos%20referentes)) (referencia 9)
 - (Vide na pasta [artigos](https://github.com/wellington36/Modelling-the-dynamics-of-language-death/tree/main/Artigos%20referentes)) (referencia 11)
+- https://brasil.elpais.com/brasil/2016/12/26/cultura/1482746256_157587.html (reportagem emocionante USAR)
 
 
 ## Materiais
