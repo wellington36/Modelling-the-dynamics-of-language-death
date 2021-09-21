@@ -31,10 +31,11 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 ## My paper
 
 - Introdução:
-	- O que é um idioma?
-	- O que é a morte de um idioma?
-	- Qual a importancia deste tema?
-	- Dados sobre o tema?
+	- [x] O que é um idioma?
+	- [x] O que é a morte de um idioma?
+	- [x] Qual a importancia deste tema?
+		- [x] Falar do Brasil (com 190 linguas)
+	- [x] Dados sobre o tema?
 	- Como este trabalho é dividido?
 
 - Metodologia:
