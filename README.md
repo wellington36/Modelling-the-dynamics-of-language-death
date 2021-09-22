@@ -7,7 +7,7 @@ This repository describes the "dynamics of language death modeling" assigment of
 
 
 ## Main article of reference
-Article [Modelling the dynamics of language death](https://www.nature.com/articles/424900a).
+Artigo de base [Modelling the dynamics of language death](https://www.nature.com/articles/424900a).
 
 
 ## Ideias
