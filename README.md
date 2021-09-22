@@ -44,8 +44,8 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 	- [x] Como este trabalho é dividido?
 
 - Metodologia:
-	- [ ] De onde tiramos o modelo?
-	- [ ] Como foi implementado? (Possivel mudança no futuro de acordo com os dados)
+	- [x] De onde tiramos o modelo?
+	- [x] Como foi implementado? (Possivel mudança no futuro de acordo com os dados)
 	- [ ] Detalhar mudanças no modelo
 	- [ ] Estudo de propriedados do modelo
 	- [ ] Mencionar aplicação as linguas em extinção do Brasil
