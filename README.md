@@ -1,6 +1,9 @@
 # Modelling the dynamics of language death
 This repository describes the "dynamics of language death modeling" assigment of the EMAP-FGV biological modeling discipline.
 
+# Para correção do trabalho:
+- Trabalho em questão esta em: x elaborado em estrutura de artigo que será inclementado conforme o curso se estende.
+
 ## Link for report
 Report in overleaf: [report PDF](https://pt.overleaf.com/read/vqjfqhspnmdb).
 
@@ -15,10 +18,11 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 	- https://doi.org/10.31826/9781463214821-024 (read)
 - http://libgen.gs/ads.php?doi=10.2307/3199257 (Vide na pasta [artigos](https://github.com/wellington36/Modelling-the-dynamics-of-language-death/tree/main/Artigos%20referentes)) (referencia 9)
 - (Vide na pasta [artigos](https://github.com/wellington36/Modelling-the-dynamics-of-language-death/tree/main/Artigos%20referentes)) (referencia 11)
+- Usar linguas brasileiras em perigo de extinção.
 - https://brasil.elpais.com/brasil/2016/12/26/cultura/1482746256_157587.html (reportagem emocionante USAR)
 
 
-## Materiais
+## Materiais (Possivelmente uteis)
 
 - https://www.youtube.com/watch?v=t3qbYFvOHwk (Bom local para ideias)
 - https://www.youtube.com/watch?v=Qr8QsNCe3C4 (Bom local para ideias)
@@ -37,16 +41,22 @@ Article [Modelling the dynamics of language death](https://www.nature.com/articl
 	- [x] Qual a importancia deste tema?
 		- [x] Falar do Brasil (com 190 linguas)
 	- [x] Dados sobre o tema?
-	- Como este trabalho é dividido?
+	- [x] Como este trabalho é dividido?
 
 - Metodologia:
-	- Exemplificar o assunto?
-	- Explicar o que será feito com mais detalhes?
-	- O que foi feito?
-	- Quais mudanças foram feitas do artigo main pra este?
+	- [ ] De onde tiramos o modelo?
+	- [ ] Como foi implementado? (Possivel mudança no futuro de acordo com os dados)
+	- [ ] Detalhar mudanças no modelo
+	- [ ] Estudo de propriedados do modelo
+	- [ ] Mencionar aplicação as linguas em extinção do Brasil
 
+- Aplicação:
+	- [ ] Escolher algumas linguas mencionadas para aplicação do modelo
+	- [ ] Estudos cada caso
+	- [ ] Fazer breves conclusões dos casos
+	
 - Conclusão:
-	- Resultados
-	- Considerações
-	- Efeitos do trabalho
+	- [ ] Resultados
+	- [ ] Considerações
+	- [ ] Efeitos do trabalho
 
