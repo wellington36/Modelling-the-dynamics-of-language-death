@@ -45,13 +45,13 @@ Artigo de base [Modelling the dynamics of language death](https://www.nature.com
 - Metodologia:
 	- [x] De onde tiramos o modelo?
 	- [x] Como foi implementado? (Possivel mudança no futuro de acordo com os dados)
-	- [ ] Detalhar mudanças no modelo
-	- [ ] Estudo de propriedados do modelo
+	- [ ] Detalhar modelo
+	- [ ] Estudo de propriedades do modelo
 	- [ ] Mencionar aplicação as linguas em extinção do Brasil
 
 - Aplicações:
 	- [ ] Escolher algumas linguas mencionadas para aplicação do modelo
-	- [ ] Estudos cada caso
+	- [ ] Estudar cada caso
 	- [ ] Fazer breves conclusões dos casos
 	- [ ] Gráficos
 	
