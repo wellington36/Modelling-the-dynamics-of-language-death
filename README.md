@@ -49,7 +49,7 @@ Artigo de base [Modelling the dynamics of language death](https://www.nature.com
 	- [x] Mencionar aplicação as linguas em extinção do Brasil
 
 - Aplicações:
-	- [ ] Escolher algumas linguas mencionadas para aplicação do modelo
+	- [ ] Escolher algumas linguas mencionadas para aplicação do modelo (vide #2)
 	- [ ] Estudar cada caso
 	- [ ] Fazer breves conclusões dos casos
 	- [ ] Gráficos
@@ -57,5 +57,4 @@ Artigo de base [Modelling the dynamics of language death](https://www.nature.com
 - Conclusão:
 	- [ ] Resultados
 	- [ ] Considerações
-	- [ ] Efeitos do trabalho
 
