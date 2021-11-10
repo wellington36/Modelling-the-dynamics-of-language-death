@@ -48,13 +48,16 @@ Artigo de base [Modelling the dynamics of language death](https://www.nature.com
 	- [x] Detalhar modelo
 	- [x] Mencionar aplicação as linguas em extinção do Brasil
 
-- Aplicações:
+- Modelagem de mortes de línguas:
 	- [ ] Escolher algumas linguas mencionadas para aplicação do modelo (vide #2)
-	- [ ] Estudar cada caso
-	- [ ] Fazer breves conclusões dos casos
 	- [ ] Gráficos
-	
+	- [ ] Fazer breves conclusões dos casos (estabilidades)
+
+- Discussão:
+	- [ ] Estudar cada caso
+	- [ ] Caracteristicas
+
 - Conclusão:
-	- [ ] Resultados
-	- [ ] Considerações
+	- [ ] Da indrotução até aqui
+	- [ ] Importância do trabalho
 
