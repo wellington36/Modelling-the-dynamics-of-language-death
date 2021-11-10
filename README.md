@@ -58,6 +58,6 @@ Artigo de base [Modelling the dynamics of language death](https://www.nature.com
 	- [ ] Caracteristicas
 
 - Conclusão:
-	- [ ] Da indrotução até aqui
+	- [ ] Da introdução até aqui
 	- [ ] Importância do trabalho
 
