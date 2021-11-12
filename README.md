@@ -50,8 +50,7 @@ Artigo de base [Modelling the dynamics of language death](https://www.nature.com
 
 - Modelagem de mortes de línguas:
 	- [x] Escolher algumas linguas mencionadas para aplicação do modelo (vide [#2](https://github.com/wellington36/Modelling-the-dynamics-of-language-death/issues/2))
-	- [ ] Modelar x(t)
-	- [ ] Gráficos
+	- [ ] Gráficos (tomamos o primeiro valor como t=0)
 	- [ ] Fazer breves conclusões dos casos (estabilidades, o R0)
 
 - Discussão:
