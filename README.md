@@ -61,3 +61,5 @@ Artigo de base [Modelling the dynamics of language death](https://www.nature.com
 	- [ ] Da introdução até aqui
 	- [ ] Importância do trabalho
 
+- Extra:
+	- [ ] Resumo (pt and en)
