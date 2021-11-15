@@ -2,7 +2,7 @@
 This repository describes the "dynamics of language death modeling" assigment of the EMAP-FGV biological modeling discipline.
 
 # Para correção do trabalho:
-- Trabalho em questão esta em: https://github.com/wellington36/Modelling-the-dynamics-of-language-death/blob/main/Modelando_a_dinamica_de_morte_de_idiomas_brasileiros.pdf elaborado em estrutura de artigo que será inclementado conforme o curso se estende.
+- Trabalho em questão esta em: https://github.com/wellington36/Modelling-the-dynamics-of-language-death/blob/main/Modelando_a_dinamica_da_morte_de_idiomas.pdf elaborado em estrutura de artigo que será inclementado conforme o curso se estende.
 - Qualquer problema link do overleaf: [report PDF](https://pt.overleaf.com/read/vqjfqhspnmdb). 
 
 
