@@ -50,7 +50,8 @@ Artigo de base [Modelling the dynamics of language death](https://www.nature.com
 
 - Modelagem de mortes de línguas:
 	- [x] Escolher algumas linguas mencionadas para aplicação do modelo (vide [#2](https://github.com/wellington36/Modelling-the-dynamics-of-language-death/issues/2))
-	- [ ] Gráficos (tomamos o primeiro valor como t=0, usando inferência Bayesiana)
+	- [x] Fazer Jupyters com implementações
+	- [x] Gráficos (tomamos o primeiro valor como t=0, usando inferência Bayesiana)
 	- [ ] Fazer breves conclusões dos casos (estabilidades, o R0)
 
 - Discussão:
