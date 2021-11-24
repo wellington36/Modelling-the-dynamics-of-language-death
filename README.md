@@ -38,7 +38,6 @@ Artigo de base [Modelling the dynamics of language death](https://www.nature.com
 	- [x] O que é um idioma?
 	- [x] O que é a morte de um idioma?
 	- [x] Qual a importancia deste tema?
-		- [x] Falar do Brasil (com 190 linguas)
 	- [x] Dados sobre o tema?
 	- [x] Como este trabalho é dividido?
 
@@ -46,7 +45,7 @@ Artigo de base [Modelling the dynamics of language death](https://www.nature.com
 	- [x] De onde tiramos o modelo?
 	- [x] Como foi implementado? (Possivel mudança no futuro de acordo com os dados)
 	- [x] Detalhar modelo
-	- [x] Mencionar aplicação as linguas em extinção do Brasil
+	- [x] Mencionar aplicação as linguas em extinção do Brasil (removido defivo falta de dados)
 
 - Modelagem de mortes de línguas:
 	- [x] Escolher algumas linguas mencionadas para aplicação do modelo (vide [#2](https://github.com/wellington36/Modelling-the-dynamics-of-language-death/issues/2))
