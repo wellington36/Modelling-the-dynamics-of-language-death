@@ -56,10 +56,12 @@ Artigo de base [Modelling the dynamics of language death](https://www.nature.com
 
 - Discussão:
 	- [x] Estudar cada caso
+	- [x] Prioris
 	- [x] Caracteristicas
 
 - Conclusão:
 	- [x] Da introdução até aqui
+	- [x] Dificuldades
 	- [x] Importância do trabalho
 
 - Extra:
